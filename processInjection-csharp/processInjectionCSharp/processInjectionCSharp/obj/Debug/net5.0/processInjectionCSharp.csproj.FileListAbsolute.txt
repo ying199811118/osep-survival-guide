@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\bin\Debug\net5.0\processInjectionCSharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\bin\Debug\net5.0\processInjectionCSharp.deps.json
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\bin\Debug\net5.0\processInjectionCSharp.runtimeconfig.json
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\bin\Debug\net5.0\processInjectionCSharp.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\bin\Debug\net5.0\processInjectionCSharp.dll
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\bin\Debug\net5.0\processInjectionCSharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\processInjectionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\processInjectionCSharp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\processInjectionCSharp.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\processInjectionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\processInjectionCSharp.sourcelink.json
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\processInjectionCSharp.dll
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\refint\processInjectionCSharp.dll
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\processInjectionCSharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\processInjectionCSharp.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection-csharp\processInjectionCSharp\processInjectionCSharp\obj\Debug\net5.0\ref\processInjectionCSharp.dll
