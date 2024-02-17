@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\osep-survival-guide\\dllInjection-csharp\\dllInjectionCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4EE3E9-03C7-4E0E-8684-B7C3C3DFF2B3}|dllInjectionCSharp\\dllInjectionCSharp.csproj|c:\\users\\user\\documents\\github\\osep-survival-guide\\dllinjection-csharp\\dllinjectioncsharp\\dllinjectioncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4EE3E9-03C7-4E0E-8684-B7C3C3DFF2B3}|dllInjectionCSharp\\dllInjectionCSharp.csproj|solutionrelative:dllinjectioncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\osep-survival-guide\\payload\\InMemory_VBA.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\osep-survival-guide\\payload\\Disk_VBA.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemory_VBA.vb",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\osep-survival-guide\\payload\\InMemory_VBA.vb",
+              "RelativeDocumentMoniker": "..\\..\\payload\\InMemory_VBA.vb",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\osep-survival-guide\\payload\\InMemory_VBA.vb",
+              "RelativeToolTip": "..\\..\\payload\\InMemory_VBA.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-16T16:36:08.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Disk_VBA.vb",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\osep-survival-guide\\payload\\Disk_VBA.vb",
+              "RelativeDocumentMoniker": "..\\..\\payload\\Disk_VBA.vb",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\osep-survival-guide\\payload\\Disk_VBA.vb",
+              "RelativeToolTip": "..\\..\\payload\\Disk_VBA.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-16T16:35:55.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\osep-survival-guide\\dllInjection-csharp\\dllInjectionCSharp\\dllInjectionCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "dllInjectionCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\osep-survival-guide\\dllInjection-csharp\\dllInjectionCSharp\\dllInjectionCSharp\\Program.cs",
+              "RelativeToolTip": "dllInjectionCSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T13:46:35.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

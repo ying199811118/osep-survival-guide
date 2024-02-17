@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\bin\x64\Debug\net5.0\processHollowing_CSharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\bin\x64\Debug\net5.0\processHollowing_CSharp.deps.json
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\bin\x64\Debug\net5.0\processHollowing_CSharp.runtimeconfig.json
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\bin\x64\Debug\net5.0\processHollowing_CSharp.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\bin\x64\Debug\net5.0\processHollowing_CSharp.dll
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\bin\x64\Debug\net5.0\processHollowing_CSharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\processHollowing_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\processHollowing_CSharp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\processHollowing_CSharp.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\processHollowing_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\processHollowing_CSharp.sourcelink.json
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\processHollowing_CSharp.dll
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\refint\processHollowing_CSharp.dll
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\processHollowing_CSharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\processHollowing_CSharp.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\dllInjection-csharp\processHollowing_CSharp\processHollowing_CSharp\obj\x64\Debug\net5.0\ref\processHollowing_CSharp.dll
