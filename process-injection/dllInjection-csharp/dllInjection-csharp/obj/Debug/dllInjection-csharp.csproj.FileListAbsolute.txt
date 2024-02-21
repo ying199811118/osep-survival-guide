@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\dllInjection-csharp\dllInjection-csharp\bin\Debug\dllInjection-csharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\dllInjection-csharp\dllInjection-csharp\bin\Debug\dllInjection-csharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\dllInjection-csharp\dllInjection-csharp\obj\Debug\dllInjection-csharp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\dllInjection-csharp\dllInjection-csharp\obj\Debug\dllInjection-csharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\dllInjection-csharp\dllInjection-csharp\obj\Debug\dllInjection-csharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\dllInjection-csharp\dllInjection-csharp\obj\Debug\dllInjection-csharp.pdb

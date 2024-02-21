@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypassEncoding_csharp\antiVirusBypassEncoding_csharp\bin\Debug\antiVirusBypassEncoding_csharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypassEncoding_csharp\antiVirusBypassEncoding_csharp\bin\Debug\antiVirusBypassEncoding_csharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypassEncoding_csharp\antiVirusBypassEncoding_csharp\obj\Debug\antiVirusBypassEncoding_csharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypassEncoding_csharp\antiVirusBypassEncoding_csharp\obj\Debug\antiVirusBypassEncoding_csharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\antivirus-bypass\antiVirusBypassEncoding_csharp\antiVirusBypassEncoding_csharp\obj\Debug\antiVirusBypassEncoding_csharp.pdb

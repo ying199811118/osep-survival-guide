@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processHollowing_CSharp\processHollowing_CSharp\bin\Debug\processHollowing_CSharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processHollowing_CSharp\processHollowing_CSharp\bin\Debug\processHollowing_CSharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processHollowing_CSharp\processHollowing_CSharp\obj\Debug\processHollowing_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processHollowing_CSharp\processHollowing_CSharp\obj\Debug\processHollowing_CSharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processHollowing_CSharp\processHollowing_CSharp\obj\Debug\processHollowing_CSharp.pdb

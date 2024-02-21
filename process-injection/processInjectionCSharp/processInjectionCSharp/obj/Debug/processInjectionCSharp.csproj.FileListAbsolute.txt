@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processInjectionCSharp\processInjectionCSharp\bin\Debug\processInjectionCSharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processInjectionCSharp\processInjectionCSharp\bin\Debug\processInjectionCSharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processInjectionCSharp\processInjectionCSharp\obj\Debug\processInjectionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processInjectionCSharp\processInjectionCSharp\obj\Debug\processInjectionCSharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\processInjection\processInjectionCSharp\processInjectionCSharp\obj\Debug\processInjectionCSharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\process-injection\processInjectionCSharp\processInjectionCSharp\bin\Debug\processInjectionCSharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\process-injection\processInjectionCSharp\processInjectionCSharp\bin\Debug\processInjectionCSharp.pdb
+C:\Users\User\Documents\GitHub\osep-survival-guide\process-injection\processInjectionCSharp\processInjectionCSharp\obj\Debug\processInjectionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\osep-survival-guide\process-injection\processInjectionCSharp\processInjectionCSharp\obj\Debug\processInjectionCSharp.exe
+C:\Users\User\Documents\GitHub\osep-survival-guide\process-injection\processInjectionCSharp\processInjectionCSharp\obj\Debug\processInjectionCSharp.pdb
