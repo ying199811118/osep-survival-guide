@@ -1,15 +1,31 @@
 # OSEP-Survival Joruney: Complete Guide
+- Exam Date: 19th Apr 2024 
 
-## Pending Items
-- Localise and re-organise all weapons
-- Write-up of All Labs/Modules
+## Schedule
+| Date  | Schedule |
+| ------------- | ------------- |
+| Course Start   |      12/Feb        |
+| Complete all topics and labs  | 3/March  |
+| Practice Snippets/Tools and Summary OSCPs  | 18/March  |
+| Complete Challenges 1~4   |      19/Apr        |
 
 ## Great Write-up
-- https://steffinstanly.github.io/OSEP-Review-2023/
-- https://steflan-security.com/offensive-security-experienced-penetration-tester-osep-review/#The_PEN-300_Course
-- https://marmeus.com/post/OSEP
+- https://hackmd.io/@0xbc000/H1OXfyGnu
+- https://zhuanlan.zhihu.com/p/470238678
+- https://darkwing.moe/2023/05/12/CRTO-OSEP%E5%8F%97%E9%A8%93%E8%A8%98/
 
-## Useful Tools Recommended
-- Complete Guide (https://steffinstanly.gitbook.io/osep-notes/osep/metasploit-payload-and-listener)
-- HatTricks (https://book.hacktricks.xyz/welcome/readme)
-- AD Privilege Escalation (https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+## Useful GitHubs
+
+### General 
+- https://github.com/chvancooten/OSEP-Code-Snippets
+
+### Windows Active Directory
+- https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/
+- (LSASS Dump) https://github.com/itm4n/PPLdump
+- (Win-RM) https://github.com/Hackplayers/evil-winrm
+
+### PE (Windows)
+- https://github.com/61106960/adPEAS
+
+### PE (Linux)
+- https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
